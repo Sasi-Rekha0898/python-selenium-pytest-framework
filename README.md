@@ -88,6 +88,11 @@ GitHub Actions is integrated to automatically run tests during code push.
 
 ---
 
+## Allure Report
+
+![Allure Report](allure-report.png)
+
+
 ## Author
 
 Sasi Rekha
